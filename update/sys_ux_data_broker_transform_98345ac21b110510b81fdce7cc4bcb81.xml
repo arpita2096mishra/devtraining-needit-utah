@@ -2,6 +2,7 @@
     <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
         <acl_failure_result/>
         <api_name>x_58872_needit.Add User to Text String</api_name>
+        <batch_exclude>false</batch_exclude>
         <description>This Transform Data Resource constructs a string using the format &lt;user_full_name&gt;'s Next NeedIt</description>
         <mutates_server_data>false</mutates_server_data>
         <name>Add User to Text String</name>
